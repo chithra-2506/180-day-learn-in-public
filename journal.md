@@ -79,33 +79,24 @@ Not for the world. For *me*.
 
 ---
 
-### **DAY 2 – May 3, 2025**  
-**Theme:** *Know Before You Go – Researching the Terrain*
+### DAY 2–4 – May 3–5, 2025  
+**Theme:** *Laying the Groundwork – Researching the Terrain & Reconnecting with Purpose*
 
-What I did:
+#### What I did:
+- 🌐 Explored the tech landscape — roles, paths, people  
+- 🧠 Reflected deeply on what excites me, what feels right  
+- 🔍 Researched what it takes to build a strong profile in tech  
+- 📝 Jotted down my key focus areas: languages, DSA, open source, personal branding, internships  
+- 🌟 Learned how “learning in public” builds confidence and community  
+- 🛤️ Sketched a flexible roadmap — not fully planned, but built with direction and space to adapt  
+- ☕ Took Day 4 to slow down, seek inspiration, and realign with *why* I’m doing this.  
+  I read stories of people who started small and built great things. It reminded me:  
+  > Before you begin building skills, build belief. Before you commit to growth, anchor your mindset.  
 
-- 🔍 Explored the tech landscape — roles, paths, people  
-- 🌐 Understood what excites me, what feels right
-- 🧭 Researched what it takes to build a strong profile in tech
-- 📌 Jotted down the key elements: languages, DSA, open source, personal branding, internships, consistency  
-- 🧵 Learned about how “learning in public” builds visibility and confidence
-
-**Reflection:**  
-I’ve realized — I don’t need to know everything right now. I just need to **start with clarity**.  
-This journey isn’t about proving I’m the best — it’s about becoming *better every single day*.
-
----
-
-### **DAY 3 - May 4, 2025**  
-**Theme:** Plan Like a Pro  
-**What I did:**  
-📅 I created my own action plan — customized to my pace, goals, and style.  
-🎯 It’s not copied from anyone. It’s personal, flexible, and purpose-driven.  
-🔜 You’ll start seeing how that plan unfolds in the coming days.  
-
-**Reflection:**  
-It feels good to take control of your own journey.  
-The best plan is not always the one fully mapped out from the start — it’s the one that grows with you. That’s the kind of plan I’m building. Step by step, I'm figuring things out, staying open to new opportunities and skills as they arise — not by changing directions randomly, but by evolving with intention.
+#### Reflection:  
+I realized how important it is to know where you’re headed.  
+It’s easy to get overwhelmed by what others are doing, but clarity comes from within.  
+Today gave me perspective. I feel more aligned and intentional.
 
 ---
 
