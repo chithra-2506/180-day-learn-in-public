@@ -79,24 +79,37 @@ Not for the world. For *me*.
 
 ---
 
-### DAY 2–4 – May 3–5, 2025  
-**Theme:** *Laying the Groundwork – Researching the Terrain & Reconnecting with Purpose*
+## Week 1: Foundation & Strategic Setup (Day 2–8)
 
-#### What I did:
-- 🌐 Explored the tech landscape — roles, paths, people  
-- 🧠 Reflected deeply on what excites me, what feels right  
-- 🔍 Researched what it takes to build a strong profile in tech  
-- 📝 Jotted down my key focus areas: languages, DSA, open source, personal branding, internships  
-- 🌟 Learned how “learning in public” builds confidence and community  
-- 🛤️ Sketched a flexible roadmap — not fully planned, but built with direction and space to adapt  
-- ☕ Took Day 4 to slow down, seek inspiration, and realign with *why* I’m doing this.  
-  I read stories of people who started small and built great things. It reminded me:  
-  > Before you begin building skills, build belief. Before you commit to growth, anchor your mindset.  
+### Day 2: Define Your Vision & Goals
+- Reflected on personal motivations.
+- Set clear goals.
+- Drafted a personal mission statement.
 
-#### Reflection:  
-I realized how important it is to know where you’re headed.  
-It’s easy to get overwhelmed by what others are doing, but clarity comes from within.  
-Today gave me perspective. I feel more aligned and intentional.
+### Day 3: Research & Understand the Tech Landscape
+- Explored various tech roles and industries.
+- Identified in-demand skills and technologies.
+- Understood prerequisites for each phase.
+
+### Day 4: Set Up Your Development Environment
+- Installed Python and VS Code.
+- Configured Git and GitHub.
+- Organized project directories for each phase.
+
+### Day 5: Plan Your Learning Schedule
+- Allocated time blocks for each phase.
+- Set milestones and deadlines.
+- Incorporated breaks and review sessions.
+
+### Day 6: Build Your Support Network
+- Joined online communities related to interests.
+- Connected with mentors and peers.
+- Followed industry leaders for updates.
+
+### Day 7: Reflect & Adjust
+- Reviewed progress and initial plans.
+- Adjusted schedule and goals as needed.
+- Prepared for upcoming phases with confidence.
 
 ---
 
