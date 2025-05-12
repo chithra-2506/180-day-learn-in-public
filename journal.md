@@ -79,7 +79,7 @@ Not for the world. For *me*.
 
 ---
 
-### **DAY 2 TO DAY 8 - MAY 3 TO 9, 2025 (📍1 Week of Planning & Preparation)
+### **DAY 2 TO DAY 8 - MAY 3 TO 9, 2025 (📍1 Week of Planning & Preparation)**
 
 Before diving deep into my 180 Days of Tech Journey, I dedicated a full week to set up everything with clarity, focus, and long-term vision.
 
