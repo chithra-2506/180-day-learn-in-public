@@ -79,37 +79,82 @@ Not for the world. For *me*.
 
 ---
 
-## Week 1: Foundation & Strategic Setup (Day 2–8)
+### **DAY 2 TO DAY 8 - MAY 3 TO 9, 2025 (📍1 Week of Planning & Preparation)
 
-### Day 2: Define Your Vision & Goals
-- Reflected on personal motivations.
-- Set clear goals.
-- Drafted a personal mission statement.
+Before diving deep into my 180 Days of Tech Journey, I dedicated a full week to set up everything with clarity, focus, and long-term vision.
 
-### Day 3: Research & Understand the Tech Landscape
-- Explored various tech roles and industries.
-- Identified in-demand skills and technologies.
-- Understood prerequisites for each phase.
+---
 
-### Day 4: Set Up Your Development Environment
-- Installed Python and VS Code.
-- Configured Git and GitHub.
-- Organized project directories for each phase.
+#### ✅ Day 2: Define My Vision & Mission
+- Took time to reflect deeply on *why* I’m starting this journey.
+- Wrote a personal mission statement to guide my decisions.
+- Set SMART goals (Specific, Measurable, Achievable, Relevant, Time-bound) for all 10 phases.
+- Visualized where I want to be after 180 days.
 
-### Day 5: Plan Your Learning Schedule
-- Allocated time blocks for each phase.
-- Set milestones and deadlines.
-- Incorporated breaks and review sessions.
+📝 **Outcome:** I now have a clear reason and purpose behind each skill I’ll learn.
 
-### Day 6: Build Your Support Network
-- Joined online communities related to interests.
-- Connected with mentors and peers.
-- Followed industry leaders for updates.
+---
 
-### Day 7: Reflect & Adjust
-- Reviewed progress and initial plans.
-- Adjusted schedule and goals as needed.
-- Prepared for upcoming phases with confidence.
+#### 🔍 Day 3: Explore the Tech Landscape
+- Researched top tech roles (developer, data analyst, game dev, etc.).
+- Studied skills required for each domain using job boards and mentor blogs.
+- Understood what recruiters and universities look for in portfolios.
+
+📚 **Insight:** The demand is high—but so is the opportunity to stand out by building real, meaningful projects.
+
+---
+
+#### ⚙️ Day 4: Set Up My Tech Toolkit
+- Installed Python, VS Code, Git, GitHub CLI.
+- Set up a folder structure for each phase (Python, DSA, Web Dev, etc.).
+- Created a private GitHub repo for drafts, notes, and version tracking.
+
+🧰 **Environment Ready:** No distractions later—I can now focus purely on learning and building.
+
+---
+
+#### 📅 Day 5: Designed My Learning System
+- Built a 180-day calendar with flexible learning blocks.
+- Planned “Focus Weeks” for each major topic.
+- Added weekly review & rest days to avoid burnout.
+
+📌 **Strategy:** 5 hours daily commitment, tracked and optimized.
+
+---
+
+#### 🤝 Day 6: Built My Support Circle
+- Joined communities on Discord, GitHub, and LinkedIn (GirlScript, Hack Club, etc.).
+- Followed mentors and devs on Twitter for daily inspiration.
+- Subscribed to newsletters like Codeforces, Dev.to, and Hacker News.
+
+🌐 **Goal:** Stay connected to what’s happening, get help fast, and never feel alone in the process.
+
+---
+
+#### 🪞 Day 7: Review & Recalibrate
+- Reviewed the entire plan critically.
+- Adjusted learning pace to match personal energy & college timing.
+- Updated the phase timelines to include buffer space.
+
+🔁 **Result:** My plan feels real, doable, and tailored to my lifestyle.
+
+---
+
+#### 🔓 Day 8: Commit to Learning in Public
+- Finalized my GitHub Learn-In-Open structure.
+- Drafted README.md with goals, journey, and roadmap.
+- Decided to keep it private until I finish 180 days—then go public with everything.
+- Added folders for:  
+  - `Day-wise logs`  
+  - `Certificates & Gigs`  
+  - `Projects by Phase`  
+  - `Final Resume & Portfolio assets`  
+
+🌱 **Commitment:** I’m ready to start building from tomorrow. Every day counts from here!
+
+---
+
+
 
 ---
 
