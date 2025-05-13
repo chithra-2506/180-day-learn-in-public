@@ -154,8 +154,40 @@ Before diving deep into my 180 Days of Tech Journey, I dedicated a full week to 
 
 ---
 
+### **📅 Day 9 to Day 11 - May 10 to 12, 2025 (C Programming Recap & Completion 🌟)**
 
+✅ I revisited **C Programming**, which I had previously studied in my first semester.  
+🧠 I focused on reinforcing my basics and solving problems that I had left halfway on HackerRank.  
+💪 Over these 3 days, I:
+
+- Revamped my logic with conditional statements, loops, and functions in C
+- Completed the pending problems and challenges
+- Achieved a ⭐⭐⭐⭐⭐ **5-Star Badge in C Programming on HackerRank**
+
+🔗 [View My HackerRank Profile](https://www.hackerrank.com/chithrapriyadar1)
 
 ---
+
+### **📅 Day 12 - May 13, 2025 (Python Basics Recap & New Journey Begins 🐍)**
+
+🧠 I revised the **basic concepts of Python** that I had learned during my semester:
+
+- Introduction to Python
+- Variables, data types, type casting
+- Conditional statements and loops
+- Functions and file handling basics
+
+🎯 I’ve now decided to go **in-depth** and take Python seriously to master it fully.
+
+📘 To do this, I’ve enrolled in the **“100 Days of Code: The Complete Python Pro Bootcamp”** by Dr. Angela Yu on Udemy.
+
+📚 Course Link:  
+🔗 [100 Days of Code – Python Bootcamp (Udemy)](https://www.udemy.com/course/100-days-of-code/)
+
+🎯 From tomorrow onwards, I’ll be following this course step-by-step as part of my 180-day learning journey and documenting it here.
+
+---
+
+
 
 
