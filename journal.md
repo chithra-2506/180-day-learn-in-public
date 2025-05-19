@@ -62,7 +62,7 @@ This is my *base*. My *foundation*. My *rebirth*.
 
 ---
 
-### **DAY 1 – May 2, 2025**  
+### **📅 DAY 1 – May 2, 2025**  
 **Theme:** *The Rebirth – Starting Again on My Birthday*
 
 What I did:
@@ -79,13 +79,13 @@ Not for the world. For *me*.
 
 ---
 
-### **DAY 2 TO DAY 8 - MAY 3 TO 9, 2025 (📍1 Week of Planning & Preparation)**
+### **📅 DAY 2 TO DAY 8 - MAY 3 TO 9, 2025 (📍1 Week of Planning & Preparation)**
 
 Before diving deep into my 180 Days of Tech Journey, I dedicated a full week to set up everything with clarity, focus, and long-term vision.
 
 ---
 
-#### ✅ Day 2: Define My Vision & Mission
+####  Day 2: Define My Vision & Mission
 - Took time to reflect deeply on *why* I’m starting this journey.
 - Wrote a personal mission statement to guide my decisions.
 - Set SMART goals (Specific, Measurable, Achievable, Relevant, Time-bound) for all 10 phases.
@@ -168,25 +168,52 @@ Before diving deep into my 180 Days of Tech Journey, I dedicated a full week to 
 
 ---
 
-### **📅 Day 12 - May 13, 2025 (Python Basics Recap & New Journey Begins 🐍)**
+### 📆 Day 12–14: Python Basics Revisited & HackerRank Progress 💡
 
-🧠 I revised the **basic concepts of Python** that I had learned during my semester:
+After revising the basics of Python that I had learned in my first semester — including variables, data types, functions, file handling, and control structures — I started solving Python problems on [HackerRank](https://www.hackerrank.com/your_username_here). 🧠
 
-- Introduction to Python
-- Variables, data types, type casting
-- Conditional statements and loops
-- Functions and file handling basics
-
-🎯 I’ve now decided to go **in-depth** and take Python seriously to master it fully.
-
-📘 To do this, I’ve enrolled in the **“100 Days of Code: The Complete Python Pro Bootcamp”** by Dr. Angela Yu on Udemy.
-
-📚 Course Link:  
-🔗 [100 Days of Code – Python Bootcamp (Udemy)](https://www.udemy.com/course/100-days-of-code/)
-
-🎯 From tomorrow onwards, I’ll be following this course step-by-step as part of my 180-day learning journey and documenting it here.
+🛠️ Current Focus:
+- Strengthening foundational Python skills.
+- Consistently solving HackerRank problems (target: complete all Python sections by month-end).
+- Practicing clean, readable code and learning through repetition.
 
 ---
+
+### 📆 Day 15–17: Introduction to DSA in C & Python 🔁📚
+
+As DSA is part of my current semester (1-2), I began understanding the theoretical concepts first — what each data structure is and why we use them (like arrays, linked lists, stacks, and queues). 
+
+I am learning to implement these both in **C** (for exams) and **Python** (for real-world and projects). For now, it's been about:
+- 💭 Understanding *what DSA is really about*.
+- 📌 Preparing for deeper dives into each concept, both practically and academically.
+- 🧾 Planning to master C/Python DSA implementations before the July semester exams.
+
+---
+
+### 📆 Day 18: Special Day Project – Parents' Anniversary Surprise 🎂🎉
+
+Today was very special — it was my **parents' anniversary**, and I decided to surprise them with a fun project made using **Python** and the help of **ChatGPT**. Since I’m still learning HTML/CSS/JS, I relied on guidance to bring it to life.
+
+✨ **What the Project Does**:
+- Displays a beautiful "**Happy Anniversary Mom & Dad**" message.
+- Shows an animated **cake**, **balloons**, and **hearts** on screen.
+- Runs locally on browser via a Python script using Flask.
+
+> I faced a *lot* of challenges:
+- Setting up **VS Code** for web and Python development.
+- Installing and reinstalling necessary extensions and environments.
+- Dealing with bugs, terminal issues, and confusion — but I didn’t give up.
+
+🔗 **Project GitHub Link**: [Anniversary Surprise Project](https://github.com/yourusername/anniversary-surprise-project)
+
+After this project, I realized something important:
+
+> “Just learning concepts is not enough. I need to go **in-depth** and start building meaningful things **on my own**.”
+
+So, I started searching for the best Python development path — and I came across the **[100 Days of Code: The Complete Python Pro Bootcamp for 2024](https://www.udemy.com/course/100-days-of-code/)** on Udemy which is under my budget and also led by a wonderful instructor.
+ 
+---
+
 
 
 
