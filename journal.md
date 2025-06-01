@@ -79,7 +79,7 @@ Not for the world. For *me*.
 
 ---
 
-### **📅 DAY 2 TO DAY 8 - MAY 3 TO 9, 2025 (📍1 Week of Planning & Preparation)**
+### **📅 DAY 2 to DAY 8 - MAY 3 to 9, 2025 (📍1 Week of Planning & Preparation)**
 
 Before diving deep into my 180 Days of Tech Journey, I dedicated a full week to set up everything with clarity, focus, and long-term vision.
 
@@ -168,7 +168,7 @@ Before diving deep into my 180 Days of Tech Journey, I dedicated a full week to 
 
 ---
 
-### 📆 Day 12–14: Python Basics Revisited & HackerRank Progress 💡
+### **📆 Day 12 to Day 14 - May 13 to 15, 2025 (Python Basics Revisited & HackerRank Progress 💡)**
 
 After revising the basics of Python that I had learned in my first semester — including variables, data types, functions, file handling, and control structures — I started solving Python problems on [HackerRank](https://www.hackerrank.com/your_username_here). 🧠
 
@@ -179,7 +179,7 @@ After revising the basics of Python that I had learned in my first semester — 
 
 ---
 
-### 📆 Day 15–17: Introduction to DSA in C & Python 🔁📚
+### **📆 Day 15 to Day 17 - May 16 to 18, 2025 (Introduction to DSA in C & Python 🔁📚)**
 
 As DSA is part of my current semester (1-2), I began understanding the theoretical concepts first — what each data structure is and why we use them (like arrays, linked lists, stacks, and queues). 
 
@@ -190,7 +190,7 @@ I am learning to implement these both in **C** (for exams) and **Python** (for r
 
 ---
 
-### 📆 Day 18: Special Day Project – Parents' Anniversary Surprise 🎂🎉
+### **📆 Day 18 - May 19, 2025 (Special Day Project – Parents' Anniversary Surprise 🎂🎉)**
 
 Today was very special — it was my **parents' anniversary**, and I decided to surprise them with a fun project made using **Python** and the help of **ChatGPT**. Since I’m still learning HTML/CSS/JS, I relied on guidance to bring it to life.
 
@@ -204,8 +204,6 @@ Today was very special — it was my **parents' anniversary**, and I decided to 
 - Installing and reinstalling necessary extensions and environments.
 - Dealing with bugs, terminal issues, and confusion — but I didn’t give up.
 
-🔗 **Project GitHub Link**: [Anniversary Surprise Project](https://github.com/yourusername/anniversary-surprise-project)
-
 After this project, I realized something important:
 
 > “Just learning concepts is not enough. I need to go **in-depth** and start building meaningful things **on my own**.”
@@ -214,6 +212,18 @@ So, I started searching for the best Python development path — and I came acro
  
 ---
 
+### **📆 Day 19 – Day 30 - MAy 20 to 31, 2025 (Life Got in the Way – Shifting, College & Chaos)**
+
+These past 12 days weren’t very productive in terms of technical skill-building. Here's why:
+
+- 🏠 We’ve been busy with our **house shifting process**, which took a lot of time and energy.
+- 👩‍👧 I was **helping my mom** and managing household responsibilities.
+- 📝 Meanwhile, my college work **piled up** — with endless **assignments**, **online classes**, and **exam prep** for the upcoming semester.
+- 📚 Summer holidays didn’t feel like a break — they were filled with academic catch-up and responsibilities.
+
+Although I couldn’t focus on coding or personal projects during this phase, I’m documenting this honestly to show that not every day is productive — and that’s okay.
+
+🔜 Back to tech grind from Day 31 with more fire!
 
 
 
