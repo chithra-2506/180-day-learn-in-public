@@ -85,7 +85,7 @@ Before diving deep into my 180 Days of Tech Journey, I dedicated a full week to 
 
 ---
 
-####  Day 2: Define My Vision & Mission
+  Day 2: Define My Vision & Mission
 - Took time to reflect deeply on *why* I’m starting this journey.
 - Wrote a personal mission statement to guide my decisions.
 - Set SMART goals (Specific, Measurable, Achievable, Relevant, Time-bound) for all 10 phases.
@@ -95,7 +95,7 @@ Before diving deep into my 180 Days of Tech Journey, I dedicated a full week to 
 
 ---
 
-#### 🔍 Day 3: Explore the Tech Landscape
+  Day 3: Explore the Tech Landscape
 - Researched top tech roles (developer, data analyst, game dev, etc.).
 - Studied skills required for each domain using job boards and mentor blogs.
 - Understood what recruiters and universities look for in portfolios.
@@ -104,7 +104,7 @@ Before diving deep into my 180 Days of Tech Journey, I dedicated a full week to 
 
 ---
 
-#### ⚙️ Day 4: Set Up My Tech Toolkit
+  Day 4: Set Up My Tech Toolkit
 - Installed Python, VS Code, Git, GitHub CLI.
 - Set up a folder structure for each phase (Python, DSA, Web Dev, etc.).
 - Created a private GitHub repo for drafts, notes, and version tracking.
@@ -113,7 +113,7 @@ Before diving deep into my 180 Days of Tech Journey, I dedicated a full week to 
 
 ---
 
-#### 📅 Day 5: Designed My Learning System
+  Day 5: Designed My Learning System
 - Built a 180-day calendar with flexible learning blocks.
 - Planned “Focus Weeks” for each major topic.
 - Added weekly review & rest days to avoid burnout.
@@ -122,8 +122,8 @@ Before diving deep into my 180 Days of Tech Journey, I dedicated a full week to 
 
 ---
 
-#### 🤝 Day 6: Built My Support Circle
-- Joined communities on Discord, GitHub, and LinkedIn (GirlScript, Hack Club, etc.).
+  Day 6: Built My Support Circle
+- Joined  Discord, twitter and LinkedIn.
 - Followed mentors and devs on Twitter for daily inspiration.
 - Subscribed to newsletters like Codeforces, Dev.to, and Hacker News.
 
@@ -131,7 +131,7 @@ Before diving deep into my 180 Days of Tech Journey, I dedicated a full week to 
 
 ---
 
-#### 🪞 Day 7: Review & Recalibrate
+  Day 7: Review & Recalibrate
 - Reviewed the entire plan critically.
 - Adjusted learning pace to match personal energy & college timing.
 - Updated the phase timelines to include buffer space.
@@ -140,7 +140,7 @@ Before diving deep into my 180 Days of Tech Journey, I dedicated a full week to 
 
 ---
 
-#### 🔓 Day 8: Commit to Learning in Public
+  Day 8: Commit to Learning in Public
 - Finalized my GitHub Learn-In-Open structure.
 - Drafted README.md with goals, journey, and roadmap.
 - Decided to keep it private until I finish 180 days—then go public with everything.
