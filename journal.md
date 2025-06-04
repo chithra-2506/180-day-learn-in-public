@@ -212,7 +212,7 @@ So, I started searching for the best Python development path — and I came acro
  
 ---
 
-### **📆 Day 19 – Day 30 - MAy 20 to 31, 2025 (Life Got in the Way – Shifting, College & Chaos)**
+### **📆 Day 19 – Day 34 - MAy 20 to June 4, 2025 (Life Got in the Way – Shifting, College & Chaos)**
 
 These past 12 days weren’t very productive in terms of technical skill-building. Here's why:
 
@@ -223,7 +223,7 @@ These past 12 days weren’t very productive in terms of technical skill-buildin
 
 Although I couldn’t focus on coding or personal projects during this phase, I’m documenting this honestly to show that not every day is productive — and that’s okay.
 
-🔜 Back to tech grind from Day 31 with more fire!
+🔜 Back to tech grind from Day 35 with more fire as the works are done and that iam in my new house and back to college after holidays(which was basically full of other works)
 
 
 
